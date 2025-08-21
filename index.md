@@ -7,7 +7,7 @@ authors:
   - "Anonymous Authors"
 affiliations:
   - "Under Review"
-paper: https://arxiv.org/abs/???
+paper: ./static/You_Only_Pose_Once_compressed.pdf
 code: https://github.com/???/???           # placeholder until official repo is released
 ---
 <figure class="image is-16by9">
