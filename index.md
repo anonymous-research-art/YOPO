@@ -4,7 +4,7 @@ permalink: /
 
 title: YOPO: A Minimalist’s Detection Transformer for Monocular RGB Category‑level 9D Multi‑Object Pose Estimation
 authors:
-  - "Anonymous Authors"
+  - "Anonymous Author(s)"
 affiliations:
   - "Under Review"
 paper: ./static/You_Only_Pose_Once_compressed.pdf
